@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Audio+Interface+Control-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Audio+Interface-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Universal Audio Console Free Installer** — Universal Audio Console is the software for managing UAD interfaces and routing for Universal Audio Apollo and Volt audio interfaces. Works without internet access, no account required. Full offline installation.
+**💻 Universal Audio Console Free Installer** — Universal Audio Console is the control software for Universal Audio Apollo audio interfaces and UAD-2 DSP accelerators. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Universal Audio Console
 
-Universal Audio Console is the software for managing UAD interfaces and routing for Universal Audio Apollo and Volt audio interfaces. Configure monitor mixing, load and use UAD plugins with Unison technology directly on the hardware preamps, and manage low-latency monitoring routing. Universal Audio Console is the hub for UA's hardware-accelerated plugin ecosystem.
+Universal Audio Console is the control software for Universal Audio Apollo audio interfaces and UAD-2 DSP accelerators. It manages routing, monitoring, Unison preamp emulations, and real-time UAD plugin processing with near-zero latency.
 
 ---
 
 ## ❌ Problem: Universal Audio Console is hard to access
 
-- **Universal Audio Hardware Required** — Only functions with UA Apollo or Volt interfaces
-- **UAD Plugin Cost** — Best features require purchasing UAD plugin licenses which are expensive
-- **DSP Capacity** — UAD plugin usage limited by the interface's DSP chip capacity
-- **Platform Differences** — Thunderbolt and USB versions have different capability levels
+- **UA Hardware Required** — Useless without Universal Audio hardware
+- **DSP Subscription** — UAD plugin ecosystem requires ongoing monthly subscription
+- **Windows and macOS Only** — No Linux version available
+- **High Hardware Cost** — Apollo interfaces are among the most expensive in their class
 
 ---
 
@@ -121,7 +121,7 @@ Universal Audio Console is the software for managing UAD interfaces and routing 
 
 ---
 
-**Universal Audio Console Free Installer** — Universal Audio Console is the software for managing UAD interfaces and routing for Universal Audio Apollo and Volt audio interfaces. Install without internet connection today!
+**Universal Audio Console Free Installer** — Universal Audio Console is the control software for Universal Audio Apollo audio interfaces and UAD-2 DSP accelerators. Install without internet connection today!
 
 <div align="center">
 
